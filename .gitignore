@@ -1,0 +1,4 @@
+bin/
+obj/
+FileReader.depend
+*.o
